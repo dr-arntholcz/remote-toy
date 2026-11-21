@@ -1,6 +1,0 @@
-go/
-libraries/
-remote-toy-5/
-*.key
-*.crt
-.gitignore
